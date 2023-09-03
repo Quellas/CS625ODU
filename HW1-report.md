@@ -1,8 +1,6 @@
 # HW1-report.md
 
-Quellas Lin 
-Due: September 6, 2023
-this is a change
+Quellas Lin <br>
 
 ## Git, GitHub
 
