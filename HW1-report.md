@@ -1,6 +1,7 @@
 # HW 1 - CS 625, Fall 2023
 
 Quellas Lin <br>
+Due: September 6, 2023
 
 ## Git, GitHub
 
